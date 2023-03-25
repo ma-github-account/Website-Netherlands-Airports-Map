@@ -2,12 +2,12 @@ This website presents Netherlands airports map. Map displays the locations of ci
 
 Map functionalities:
 
--Zoom
--Search
--Home (back to default display)
--Print
--Fullscreen
--Change map type
+- Zoom
+- Search
+- Home (back to default display)
+- Print
+- Fullscreen
+- Change map type
 
 Website is interactive due to the usage of Leaflet JavaScript library. To display the website, please open index.html file in the internet browser.
 
