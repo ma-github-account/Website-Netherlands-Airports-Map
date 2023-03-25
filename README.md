@@ -17,7 +17,7 @@ Website is interactive due to the usage of Leaflet JavaScript library. To displa
 
 
 
-![1](https://user-images.githubusercontent.com/89083426/227744386-df7fbf3e-de7b-4732-9004-cc129b4adabc.png)
+![1](https://user-images.githubusercontent.com/89083426/227745347-5511d598-fc6c-434c-8ad5-a41f90e78c78.png)
 
 
 
@@ -29,8 +29,16 @@ Website is interactive due to the usage of Leaflet JavaScript library. To displa
 
 
 
-![2](https://user-images.githubusercontent.com/89083426/227744387-cd8e7d1a-1999-4e31-b8e2-9ebb067ddc2b.png)
 
+
+
+
+
+
+
+
+
+![2](https://user-images.githubusercontent.com/89083426/227745348-667fdfc0-49ee-493e-bf9f-86dda9c704f5.png)
 
 
 
