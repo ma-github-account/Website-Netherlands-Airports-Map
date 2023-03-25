@@ -30,6 +30,7 @@ Website is interactive due to the usage of Leaflet JavaScript library. To displa
 
 
 
+![2](https://user-images.githubusercontent.com/89083426/227745424-16d1a620-b9a5-4ef7-ae18-136d13acac03.png)
 
 
 
