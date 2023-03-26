@@ -1,4 +1,4 @@
-This website presents Netherlands airports map. Map displays the locations of civil airports, military air bases and helipads.
+This w ebsite presents Netherlands airports map. Map displays the locations of civil airports, military air bases and helipads.
 
 Map functionalities:
 
